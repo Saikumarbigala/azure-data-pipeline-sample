@@ -52,7 +52,7 @@ A retail business wants to understand customer purchase trends and identify high
 
 ## 👨‍💻 Author
 **Saikumar Bigala**  
-📧 saikumardataengineer@gmail.com  
+📧 bigalasaikumar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/saikumar-bigala)  
 🌐 [Portfolio Website](https://saikumar-bigala-tech-hub.lovable.app/)
 
