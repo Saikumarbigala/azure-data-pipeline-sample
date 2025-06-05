@@ -44,6 +44,11 @@ This project demonstrates an end-to-end batch ETL pipeline built using Microsoft
 A retail business wants to understand customer purchase trends and identify high-value customers. This pipeline automates data collection and reporting for actionable insights.
 
 ---
+## 🖼️ Pipeline Architecture Diagram
+
+![Azure ETL Pipeline Architecture](pipeline-architecture.png)
+
+
 
 ## 👨‍💻 Author
 **Saikumar Bigala**  
